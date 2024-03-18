@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Olá! Meu nome é Amanda e sou estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência no desenvolvimento de aplicações utilizando Java e SQL, e também possuo conhecimentos em Python, HTML, CSS e bancos de dados. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades de programação. Seja bem-vindo ao meu repositório!
 
 <!--
 **amandacostab/amandacostab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
